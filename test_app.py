@@ -11,8 +11,6 @@ import pandas as pd
 import datetime as dt
 import warnings
 import os
-import yfinance as yf
-import qgrid
 import matplotlib.pyplot as plt
 import seaborn as sns
 from matplotlib import style
